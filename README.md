@@ -18,15 +18,29 @@ void main()
 [![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=black&style=for-the-badge&logo=telegram)](https://t.me/endlesslydivided)
 [![Instagram](https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=black&style=for-the-badge&logo=instagram&logoColor=BA55D3&labelColor=black)](https://www.instagram.com/endlesslydivided/)
 
-# My projects:
+## My projects:
 
 ### FoodTrack v1.0
+
 ![FoodTrack](https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png)
-### FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
+FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
 * Development language: C#
 * Used technologies: WPF, SQL.
 ### Short description: 
-#### This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project.
+This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021
 
 ### Link to the project :
 https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
+
+### KAA-2020 
+
+![KAA-2020](https://github.com/endlesslydivided/KAA-2020/blob/master/KAA-2020.png)
+This is a course project that is dedicated to the creation of my own compiler.  *KAA-2020*  is a statically typed high-level compiled programming language.
+* Development language: C++
+* Final-translation language: Assembler
+### Short description: 
+This project implements lexical, syntactic and semantic code analysis, as well as the generation of assembly language code. Year of development: 2020
+
+### Link to the project :
+https://github.com/endlesslydivided/KAA-2020 
+
