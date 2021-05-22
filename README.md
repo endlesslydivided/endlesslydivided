@@ -27,7 +27,7 @@ FoodTrack is an application that allows you to track your callories consumption,
 * Development language: C#
 * Used technologies: WPF, SQL.
 ### Short description: 
-This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021
+This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021.
 
 ### Link to the project :
 https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
@@ -39,7 +39,7 @@ This is a course project that is dedicated to the creation of my own compiler.  
 * Development language: C++
 * Final-translation language: Assembler
 ### Short description: 
-This project implements lexical, syntactic and semantic code analysis, as well as the generation of assembly language code. Year of development: 2020
+This project implements lexical, syntactic and semantic code analysis, as well as the generation of assembly language code. Year of development: 2020.
 
 ### Link to the project :
 https://github.com/endlesslydivided/KAA-2020 
