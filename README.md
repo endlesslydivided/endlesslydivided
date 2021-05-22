@@ -1,4 +1,4 @@
-## Hi, My name's Sasha!
+# Hi, My name's Sasha!
 
 ### Languages I already know and study:
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=visual-studio&logoColor=93329e)
@@ -12,3 +12,13 @@
 [![VK](https://img.shields.io/static/v1?label=&message=VK&color=black&style=for-the-badge&logo=vk&logoColor=blue&labelColor=black)](https://vk.com/endlesslydivided)
 [![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=black&style=for-the-badge&logo=telegram)](https://t.me/endlesslydivided)
 [![Instagram](https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=black&style=for-the-badge&logo=instagram&logoColor=BA55D3&labelColor=black)](https://www.instagram.com/endlesslydivided/)
+
+# My projects:
+
+## FoodTrack v1.0
+![FoodTrack](https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png)
+### FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
+* Development language: C#
+* Used technologies: WPF, SQL.
+### Short description: 
+#### This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project.
