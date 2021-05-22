@@ -1,4 +1,9 @@
-# Hi, My name's Sasha!
+```c++
+void main()
+{
+  print("Hello world! My name is Sasha also known as @endlesslydivided. Welcome to my github page and have a great day!");
+}
+```
 
 ### Languages I already know and study:
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=visual-studio&logoColor=93329e)
