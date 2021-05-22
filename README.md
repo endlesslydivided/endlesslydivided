@@ -15,10 +15,13 @@
 
 # My projects:
 
-## FoodTrack v1.0
+### FoodTrack v1.0
 ![FoodTrack](https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png)
 ### FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
 * Development language: C#
 * Used technologies: WPF, SQL.
 ### Short description: 
 #### This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project.
+
+### Link to the project :
+https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
