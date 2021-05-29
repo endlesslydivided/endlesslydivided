@@ -4,7 +4,7 @@ void main()
   printf("Hello world! My name is Sasha also known as @endlesslydivided. Welcome to my github page and have a great day!");
 }
 ```
-## My projects:
+## My projects
 
 ### FoodTrack v1.0
 
@@ -12,14 +12,22 @@ void main()
  <img   width="550" src="https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png" />
 </p>
 
+<p>
 FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
-* Development language: C#
-* Used technologies: WPF, SQL.
+</p>  
+  
+<ul  type="circle">
+<li> Development language: C#</li>
+<li> Used technologies: WPF, SQL, Entity Framework Core </li>
+</ul>
+
+
+  
 ### Short description: 
 This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021.
 
-### Link to the project :
-https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
+### <a href="https://github.com/endlesslydivided/FoodTrack-OOP-Course_project">Link to the project </a>
+
 
 ### KAA-2020 
 
@@ -27,14 +35,19 @@ https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
  <img   width="550" src="https://github.com/endlesslydivided/KAA-2020/blob/master/KAA-2020.png" />
 </p>
 
-This is a course project that is dedicated to the creation of my own compiler.  *KAA-2020*  is a statically typed high-level compiled programming language.
-* Development language: C++
-* Final-translation language: Assembler
+<p>This is a course project that is dedicated to the creation of my own compiler.  *KAA-2020*  is a statically typed high-level compiled programming language.</p>
+
+
+<ul  type="circle">
+<li> Development language: C++</li>
+<li> Final-translation language: Assembler</li>
+</ul>
+
 ### Short description: 
 This project implements lexical, syntactic and semantic code analysis, as well as the generation of assembly language code. Year of development: 2020.
 
-### Link to the project :
-https://github.com/endlesslydivided/KAA-2020 
+###  <a href="https://github.com/endlesslydivided/KAA-2020 ">Link to the project </a>
+
 
 
 ### Languages I already know and study:
