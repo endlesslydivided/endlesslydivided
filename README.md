@@ -8,7 +8,10 @@ void main()
 
 ### FoodTrack v1.0
 
-![FoodTrack](https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png)
+<p align="center">
+ <img   width="550" src="https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png" />
+</p>
+
 FoodTrack is an application that allows you to track your callories consumption, modify your diet and achive your sporty goals! 
 * Development language: C#
 * Used technologies: WPF, SQL.
@@ -20,7 +23,10 @@ https://github.com/endlesslydivided/FoodTrack-OOP-Course_project
 
 ### KAA-2020 
 
-![KAA-2020](https://github.com/endlesslydivided/KAA-2020/blob/master/KAA-2020.png)
+<p align="center">
+ <img   width="550" src="https://github.com/endlesslydivided/KAA-2020/blob/master/KAA-2020.png" />
+</p>
+
 This is a course project that is dedicated to the creation of my own compiler.  *KAA-2020*  is a statically typed high-level compiled programming language.
 * Development language: C++
 * Final-translation language: Assembler
