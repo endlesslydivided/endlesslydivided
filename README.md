@@ -35,7 +35,7 @@ This is a course project, the main goal of which was to study the process of dev
  <img   width="550" src="https://github.com/endlesslydivided/KAA-2020/blob/master/KAA-2020.png" />
 </p>
 
-<p>This is a course project that is dedicated to the creation of my own compiler.  *KAA-2020*  is a statically typed high-level compiled programming language.</p>
+<p >This is a course project that is dedicated to the creation of my own compiler.<b> KAA-2020 </b>   is a statically typed high-level compiled programming language.</p>
 
 
 <ul  type="circle">
