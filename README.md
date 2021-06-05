@@ -50,7 +50,7 @@ This project implements lexical, syntactic and semantic code analysis, as well a
 
 
 
-### Languages I already know and study:
+### Languages and technologies I already know and study:
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=visual-studio&logoColor=93329e)
 ![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=for-the-badge&logo=c%2b%2b&logoColor=b4aee8)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&)
