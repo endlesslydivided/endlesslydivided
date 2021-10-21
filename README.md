@@ -38,7 +38,7 @@ This is a course project, the main goal of which was to study the process of dev
 <p >This is a course project that is dedicated to the creation of my own compiler.<b> KAA-2020 </b>   is a statically typed high-level compiled programming language.</p>
 
 
-<ul  type="circle">
+<ul   type="circle">
 <li> Development language: C++</li>
 <li> Final-translation language: Assembler</li>
 </ul>
@@ -57,6 +57,9 @@ This project implements lexical, syntactic and semantic code analysis, as well a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=microsoft-sql-server&logoColor=e40017)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ff7844)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-090909?style=for-the-badge&logo=bootstrap&logoColor=ff7844)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
+
 
 ### My contacts:
 [![VK](https://img.shields.io/static/v1?label=&message=VK&color=black&style=for-the-badge&logo=vk&logoColor=blue&labelColor=black)](https://vk.com/endlesslydivided)
