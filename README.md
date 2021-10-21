@@ -1,7 +1,8 @@
 ```c++
-void main()
+int main(int argc, char *argv[])
 {
   printf("Hello world! My name is Sasha also known as @endlesslydivided. Welcome to my github page and have a great day!");
+  return 0;
 }
 ```
 ## My projects
