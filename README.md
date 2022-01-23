@@ -7,7 +7,23 @@ int main()
 ```
 ## My projects
 
-### FoodTrack v1.0
+### FoodTrack v1.0.0 (Client-Server)
+
+<p align="center">
+ <img   width="850" height="500" src="https://github.com/endlesslydivided/FoodTrack-Spring-MTOPIL/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/logo.png" />
+</p>
+
+<p>
+FoodTrack (client-server version) is a web-application in which the pattern MVC was implemented. While developing the database architecture, OLAP data processing technology was implemented.
+</p>   
+  
+<ul  type="circle">
+<li> Development language: Java</li>
+<li> Used technologies and key words: Spring Boot, Spring Security, Spring Data, OpenAPI, Swagger, JPA, Web-application, Client-server, MVC, Repository, Microsoft SQL Server</li>
+</ul>
+
+
+### FoodTrack v1.0.0
 
 <p align="center">
  <img   width="550" src="https://github.com/endlesslydivided/FoodTrack-OOP-Course_project/blob/main/FoodTrack/Resources/foodTrackSplash.png" />
