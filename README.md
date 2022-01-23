@@ -22,6 +22,7 @@ FoodTrack (client-server version) is a web-application in which the pattern MVC 
 <li> Used technologies and key words: Spring Boot, Spring Security, Spring Data, OpenAPI, Swagger, JPA, Web-application, Client-server, MVC, Repository, Microsoft SQL Server</li>
 </ul>
 
+### <a href="https://github.com/endlesslydivided/FoodTrack-Spring-MTOPIL">Link to the project </a>
 
 ### FoodTrack v1.0.0
 
