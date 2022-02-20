@@ -42,7 +42,7 @@ FoodTrack is an application that allows you to track your callories consumption,
 
   
 ### Short description: 
-This is a course project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021.
+This is a project, the main goal of which was to study the process of developing a desktop application using a database. The project implements the architectural pattern MVVM. The database creation script is attached to the project. Year of development: 2021.
 
 ### <a href="https://github.com/endlesslydivided/FoodTrack-OOP-Course_project">Link to the project </a>
 
