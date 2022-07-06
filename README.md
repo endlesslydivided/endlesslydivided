@@ -7,6 +7,23 @@ int main()
 ```
 ## My projects
 
+### ELECTRA v1.0.0 (Client-Server)
+
+<p align="center">
+ <img   width="850" height="500" src="https://github.com/endlesslydivided/NODEJS-ELECTRA/blob/main/react_client/src/assets/ELECTRA.svg" />
+</p>
+
+<p>
+ELECTRA is crossplatform web-application for an online electronics shop.
+</p>   
+  
+<ul  type="circle">
+<li> Development language: JavaScript</li>
+<li> Used technologies and key words: JavaScript, NodeJS, Express, React, React Bootstrap, HTTPS, WSS, WebDav, MVC, PostgresSQL, JWT</li>
+</ul>
+
+### <a href="https://github.com/endlesslydivided/NODEJS-ELECTRA">Link to the project </a>
+
 ### FoodTrack v1.0.0 (Client-Server)
 
 <p align="center">
@@ -77,6 +94,7 @@ This project implements lexical, syntactic and semantic code analysis, as well a
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ff7844)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-090909?style=for-the-badge&logo=bootstrap&logoColor=ff7844)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 
 
 ### My contacts:
