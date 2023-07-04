@@ -7,7 +7,7 @@ int main()
 ```
 ## My projects
 
-### ELECTRA v1.0.0 (Client-Server)
+### ELECTRA
 
 <p align="center">
  <img   width="850" height="500" src="https://github.com/endlesslydivided/NODEJS-ELECTRA/blob/main/react_client/src/assets/ELECTRA.svg" />
@@ -24,7 +24,7 @@ ELECTRA is crossplatform web-application for an online electronics shop.
 
 ### <a href="https://github.com/endlesslydivided/NODEJS-ELECTRA">Link to the project </a>
 
-### FoodTrack v1.0.0 (Client-Server)
+### FoodTrack (Client-Server)
 
 <p align="center">
  <img   width="850" height="500" src="https://github.com/endlesslydivided/FoodTrack-Spring-MTOPIL/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/logo.png" />
