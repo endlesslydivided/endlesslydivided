@@ -1,7 +1,7 @@
 ```c++
 int main()
 {
-  printf("Hello world! My name is Sasha also known as @endlesslydivided. Welcome to my github page and have a great day!");
+  printf("Hello world! My name is Alex also known as @endlesslydivided. Welcome to my github page and have a great day!");
   return 0;
 }
 ```
